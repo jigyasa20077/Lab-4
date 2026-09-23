@@ -1,0 +1,3 @@
+Day 4 — Four-Ingredients Build-a-Prompt
+
+Day 4 focused on developing effective and structured prompts using four important components: Task, Context, Constraints and Output Format. A vague flight-delay prompt was first analysed to identify missing information and weaknesses, after which it was converted into a more structured prompt. The lab also included a baggage-complaint prompt, aviation prompt-building challenges, peer review and a one-variable test. These activities demonstrated how adding specific instructions can improve the relevance, accuracy and consistency of AI-generated responses.
